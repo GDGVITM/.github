@@ -6,7 +6,8 @@
 
 <div align="center">
 <h2>Join our community</h2>
-![GDG-VIT community](https://img.shields.io/badge/Join%20Us-Developer%20Student%20Clubs-red)](https://gdg.community.dev/gdg-on-campus-vidyalankar-institute-of-technology-mumbai-india/)
+[![Join Us](https://img.shields.io/badge/Join%20Us-Developer%20Student%20Clubs-red)](https://gdg.community.dev/gdg-on-campus-vidyalankar-institute-of-technology-mumbai-india/)
+
 </div>
 
 
