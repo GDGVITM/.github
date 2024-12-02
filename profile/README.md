@@ -1,4 +1,4 @@
-<a href="http://linktr.ee/gdgvit" target="_blank"><img src="https://github.com/GDGVITM/.github/blob/main/profile/GDG.gif" width="400" border="0" title="GDG-VITM" alt="GDG_VITM"></a>
+<a href="http://linktr.ee/gdgvit" target="_blank"><img src="https://github.com/GDGVITM/.github/blob/main/profile/GDG.gif" width="800" border="0" title="GDG-VITM" alt="GDG_VITM"></a>
 
 <h4 align="center">Google Developer Groups (GDG) at Vidyalankar Institute of Technology (VIT) in Mumbai is a vibrant community that brings together developers, designers, and tech enthusiasts to foster innovation and collaboration. </h4>
 
