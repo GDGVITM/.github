@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-<h2>Join our community</h2>
+<h3>Join our community</h3>
 <a href="https://gdg.community.dev/gdg-on-campus-vidyalankar-institute-of-technology-mumbai-india/" target="blank"><img align="center" src="https://github.com/GDGVITM/.github/blob/main/profile/gdgGit.png" alt="GDGVITM" height="40" width="50" /></a>
 </div>
 
