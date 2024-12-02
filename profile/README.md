@@ -7,13 +7,12 @@
 <div align="center">
 <h2>Join our community</h2>
 <a href="https://gdg.community.dev/gdg-on-campus-vidyalankar-institute-of-technology-mumbai-india/" target="blank"><img align="center" src="https://github.com/GDGVITM/.github/blob/main/profile/gdgGit.png" alt="GDGVITM" height="40" width="40" /></a> 
-
 </div>
 
-
+<br/>
 <p align="center"> We welcome everyone for contributions! :heart:</p>
 
-
+<br/>
 
 <div align="center">
 <h3>Connect With us!</h3>
