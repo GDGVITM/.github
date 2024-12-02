@@ -12,7 +12,6 @@
 <br/>
 <p align="center"> We welcome everyone for contributions! :heart:</p>
 
-<br/>
 
 <div align="center">
 <h3>Connect With us!</h3>
